@@ -59,6 +59,7 @@ A **fast**, **lightweight**, and **AI-agent friendly** CLI for App Store Connect
 - [How to test in <10 minutes](#how-to-test-in-10-minutes)
 - [Security](#security)
 - [Contributing](#contributing)
+- [Wall of Apps](#wall-of-apps)
 - [License](#license)
 - [Author](#author)
 - [Star History](#star-history)
@@ -999,6 +1000,12 @@ make build
 ## Contributing
 
 Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+
+## Wall of Apps
+
+Apps using ASC in their workflows. Want to be featured? Open a PR adding your app and link.
+
+- [Parsely](https://testflight.apple.com/join/HjUZtzVm)
 
 ## License
 
