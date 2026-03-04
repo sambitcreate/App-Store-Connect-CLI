@@ -49,3 +49,4 @@ worktrees/
 
 # Analytics chart images (generated locally, not tracked)
 analytics/*.png
+.DS_Store
